@@ -248,4 +248,15 @@ button {
   width: 30%;
   border-radius: 1rem;
   cursor: pointer;
+  font-size: 1rem;
+  padding: 1rem;
+  border: 0.18rem solid #173f5f;
+  background: #3caea3 linear-gradient(#E8B654, #F55B48);
+  color: white;
+}
+table {
+  table-layout: auto;
+  width: 50%;
+  border-collapse: collapse;
+  border: 0.18rem solid #173f5f;
 }
